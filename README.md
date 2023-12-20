@@ -4,6 +4,6 @@ Here's a quick little ArcGIS analysis of land usage change in Augusta-Richmond C
 These results indicate that the 30909 zip code in northwest Augusta has experienced the greatest proportion of urbanization, while southwest and southeast Augusta remain fairly untouched.
 
 
-<img src="https://github.com/garretts-hub/Augusta-Richmond-County-Urbanization/blob/main/images/Map.PNG" alt="map" title="Urbanization Map of Augusta-Richmond County" width=85% style="display: block; margin: 0 auto"><br>
+<img src="https://github.com/garretts-hub/Augusta-Richmond-County-Urbanization/blob/main/images/Map.png" alt="map" title="Urbanization Map of Augusta-Richmond County" width=85% style="display: block; margin: 0 auto"><br>
 <img src="https://github.com/garretts-hub/Augusta-Richmond-County-Urbanization/blob/main/images/Chart.png" alt="chart" title="Urbanized Land by Zip Code" width=75% style="display: block; margin: 0 auto"><br>
 This dataset can be found at https://www.arcgis.com/home/item.html?id=1453082255024699af55c960bc3dc1fe. The relevant shapefiles and raster data used for this analysis in particular can be found in the included `gis-data` folder.
